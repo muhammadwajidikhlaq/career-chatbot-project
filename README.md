@@ -8,6 +8,7 @@ This is a machine learning–based chatbot built with Streamlit that helps users
 ## 📁 Project Structure
 - `app.py` – Main Streamlit app
 - `career_guidance_dataset.csv` – Dataset with career roles, questions, and answers
+- `explore_data.py`_ Load dataset
 - `train_model.py` – Model training script
 - `intent_model.pkl` – Trained ML model
 - `vectorizer.pkl` – TF-IDF vectorizer
