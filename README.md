@@ -21,7 +21,7 @@ This is a machine learning–based chatbot built with Streamlit that helps users
 - joblib
 
 ## 📽️ Demo
-[Add your video link here when ready]
+... 
 
 ## ✍️ Created by
-[Your Name]
+Muhammad Wajid Ikhlaq
